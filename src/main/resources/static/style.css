@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color:white;
+    text-decoration: underline;
+}
+
+#greeting {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+#greeting a {
+    color: black;
+}
